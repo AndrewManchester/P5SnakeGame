@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  display: inline-block;
+}
+.first {
+  padding-left: 10px;
+}
+
+.score {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: inline;
+
+}
+
+.hide {
+  visibility: hidden;
+}
